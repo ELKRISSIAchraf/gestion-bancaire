@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H3jR2JqaAdJNICatRq6PgR1MU6UTdkoAyJtCEP8VaLc=",
+  "Source": "GestionBancaireApi",
+  "BasePath": "_content/GestionBancaireApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

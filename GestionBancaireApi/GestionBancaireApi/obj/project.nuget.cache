@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKysAb+K9farQmvAr3R/Zz6E1xzFpNljnoJgubvcpXxCD0QHYThpRqdd9XnF9INPlt3K1i2FPDA+PhTfZbhPJw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\gestionBancaire\\gestionBancaire\\GestionBancaireApi\\GestionBancaireApi\\GestionBancaireApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Pomelo.EntityFrameworkCore.MySql introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Pomelo.EntityFrameworkCore.MySql",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Swashbuckle.AspNetCore introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package MySql.Data introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "MySql.Data",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package Microsoft.EntityFrameworkCore.Tools introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Package MySql.EntityFrameworkCore introuvable. Aucun package associé à cet ID n'existe dans la ou les sources suivantes : C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "MySql.EntityFrameworkCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
